@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.dae2247a.js",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.dae2247a.js.map": "/static/js/main.dae2247a.js.map"
+    "main.css": "/2022-looking-for-the-sound-of-an-object/static/css/main.e6c13ad2.css",
+    "main.js": "/2022-looking-for-the-sound-of-an-object/static/js/main.dae2247a.js",
+    "index.html": "/2022-looking-for-the-sound-of-an-object/index.html",
+    "main.e6c13ad2.css.map": "/2022-looking-for-the-sound-of-an-object/static/css/main.e6c13ad2.css.map",
+    "main.dae2247a.js.map": "/2022-looking-for-the-sound-of-an-object/static/js/main.dae2247a.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
