@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/2022-looking-for-the-sound-of-an-object/static/js/main.d6a7e6cb.js",
+    "main.js": "/2022-looking-for-the-sound-of-an-object/static/js/main.44562bfd.js",
     "index.html": "/2022-looking-for-the-sound-of-an-object/index.html",
-    "main.d6a7e6cb.js.map": "/2022-looking-for-the-sound-of-an-object/static/js/main.d6a7e6cb.js.map"
+    "main.44562bfd.js.map": "/2022-looking-for-the-sound-of-an-object/static/js/main.44562bfd.js.map"
   },
   "entrypoints": [
-    "static/js/main.d6a7e6cb.js"
+    "static/js/main.44562bfd.js"
   ]
 }
